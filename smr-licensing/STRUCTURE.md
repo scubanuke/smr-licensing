@@ -1,0 +1,86 @@
+# Repository Structure
+
+```
+smr-licensing/
+  .gitignore
+  .nojekyll
+  CONVENTIONS.md
+  LICENSE
+  README.md
+  STRUCTURE.md
+  course-map.md
+  index.html
+  bridge/
+    module-6-assembling-a-submittal/
+      00-the-three-track-package.md
+      01-matrices-and-anticipated-rais.md
+      02-classification-and-the-docket.md
+      03-name-the-gap-name-the-vehicle.md
+      README.md
+      open-issues.md
+  core/
+    module-0-orientation/
+      00-what-a-licensing-action-is.md
+      01-pick-your-design-family.md
+      README.md
+      open-issues.md
+    module-1-licensing-pathways/
+      00-part-50-and-part-52.md
+      01-part-53-and-part-57.md
+      02-topical-reports.md
+      90-snapshot-2026-rule-status.md
+      README.md
+      open-issues.md
+    module-2-what-the-staff-reviews/
+      00-application-content-and-the-gdc.md
+      01-rais-the-se-and-acrs.md
+      02-the-conformance-matrix.md
+      README.md
+      open-issues.md
+    module-3-consequence-and-source-term/
+      00-the-mechanistic-source-term.md
+      01-from-dose-to-zone.md
+      02-aggregate-inventory.md
+      README.md
+      open-issues.md
+    module-4-security-licensing/
+      00-the-dbt-and-physical-protection.md
+      01-cyber-security-under-73-54.md
+      02-safeguards-information.md
+      README.md
+      open-issues.md
+    module-5-military-action-layer/
+      00-the-state-actor-layer.md
+      01-the-conditionality-check.md
+      02-correlated-barrier-cutsets.md
+      03-the-dual-design-basis.md
+      04-verification-and-the-pra-bridge.md
+      README.md
+      open-issues.md
+  register/
+    LI-01-counter-uas-defeat-authority.md
+    LI-02-campus-scaled-cda-identification.md
+    LI-03-shared-digital-ic-guidance.md
+    LI-04-state-actor-pre-positioning.md
+    LI-05-reduced-epz-conditionality.md
+    LI-06-aggregate-inventory-in-the-epz-demonstration.md
+    LI-07-assc-duration-on-aggregate-demand.md
+    LI-08-gdc-5-sharing-of-structures.md
+    LI-09-ml-provenance-safety-logic.md
+    LI-10-deterministic-intent-under-part-53.md
+    LI-11-the-warning-pathway-and-who-decides.md
+    LI-12-public-docket-and-safeguards-split.md
+    LI-13-geopolitical-siting.md
+    LI-14-under-frequency-load-shedding.md
+    LI-15-simultaneous-multi-module-trip.md
+    LI-16-the-part-53-part-57-band.md
+    README.md
+  resources/
+    glossary.md
+    instrument-library.md
+    regulatory-index.md
+    course-notes/
+      README.md
+```
+
+The two halves are `core/` + `bridge/` (the course) and `register/` (the issues). Every module folder carries a `README.md` with learning objectives and an `open-issues.md` linking into the register. `resources/instrument-library.md` is the single place instrument versions are recorded; everything else cites by designator. Authoring rules are in [`CONVENTIONS.md`](CONVENTIONS.md).
