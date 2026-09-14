@@ -27,7 +27,7 @@
   {
     "term": "CDA",
     "expansion": "critical digital asset",
-    "definition": "Digital equipment whose compromise could adversely affect safety, security or emergency preparedness, and which therefore receives the highest level of cyber protection."
+    "definition": "Digital equipment whose compromise could adversely affect safety, security or emergency preparedness, and which therefore receives the full weight of cyber protection. Identified within a Critical System rather than judged on its own. A device that merely communicates with one is not a CDA for that reason alone: inclusion by connectivity is conditional, and is discharged where controls remove the attack vector."
   },
   {
     "term": "Command Broker",
@@ -60,6 +60,11 @@
     "definition": "The set of inputs a safety-relevant artifact could physically encounter — the realizable sensor space, not every mathematically possible input. Bounding and declaring it is one of the four conditions in the admissibility gate of LI-09."
   },
   {
+    "term": "Critical System",
+    "expansion": "",
+    "definition": "The functional container in cyber scoping: a plant system associated with or providing a safety, security or emergency-preparedness function, or a support system whose compromise would adversely affect one. Critical digital assets are identified inside Critical Systems, so criticality is inherited from function rather than asserted of the technology."
+  },
+  {
     "term": "DBA",
     "expansion": "design basis accident",
     "definition": "The set of postulated accidents a plant must be designed to withstand. DBA-MA extends the same discipline to deliberate military action."
@@ -73,6 +78,11 @@
     "term": "Derivative",
     "expansion": "",
     "definition": "A site-specific instrument descending from a class-level one. Derivatives carry the detail that is designated before docketing; see LI-12."
+  },
+  {
+    "term": "Digital asset",
+    "expansion": "",
+    "definition": "In cyber scoping, a programmable device that executes internally stored programs without operator action. Solid-state devices carrying no firmware or software — relays, hard-wired logic — are excluded by definition, which is why hard-wired trip logic sits outside the rule's scope rather than merely outside an attacker's reach."
   },
   {
     "term": "Docket",
@@ -138,6 +148,11 @@
     "term": "Source term",
     "expansion": "",
     "definition": "How much radioactive material could be released in a given scenario. The first link in the chain that ends at a planning zone."
+  },
+  {
+    "term": "SSEP",
+    "expansion": "safety, security and emergency preparedness",
+    "definition": "The three function families 10 CFR 73.54 protects, plus the support systems whose compromise would adversely affect them. The shorthand the cyber-security guidance uses throughout."
   },
   {
     "term": "Tearline",

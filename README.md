@@ -1,6 +1,6 @@
 # Licensing the Small Modular Reactor
 
-**A course and an issue register.** Version 1.1.
+**A course and an issue register.** Version 1.2.
 
 Eclectic Technologies · T. Roxey · CC BY 4.0
 
@@ -34,4 +34,4 @@ The [AI Governance course](https://scubanuke.github.io/ai-governance-course/) te
 
 ---
 
-*Version 1.1, 14 September 2026. Every component the site declares now exists: seven modules written through, sixteen register entries, and the reference layer. Three Course Notes are written and a fourth waits on source copies; register entries carry dated state-of-play fields that are expected to be revised. Those changes carry minor version bumps.*
+*Version 1.2, 14 September 2026. Every component the site declares now exists: seven modules written through, sixteen register entries, and the reference layer. Five Course Notes are written, none now blocked on obtaining a source. This version adds the two cyber-security Notes and corrects what the site previously said about critical-digital-asset scoping: inclusion by connectivity pathway is conditional and dischargeable rather than transitive, and the campus gap is a designation without gradation rather than a configuration the method fails to reach. LI-02 and LI-03 are restated accordingly. Register entries carry dated state-of-play fields that are expected to be revised; those changes carry minor version bumps.*

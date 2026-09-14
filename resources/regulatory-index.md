@@ -44,9 +44,15 @@ Where a provision governs, the provision governs. Nothing on this site substitut
 
 **10 CFR 73.55** — requirements for physical protection against radiological sabotage.
 
-**Regulatory Guide 5.71** — cyber security programs for nuclear facilities.
+**Regulatory Guide 5.71** — cyber security programs for nuclear facilities. Carries the definition of adverse impact that the scoping guidance applies, including the carve-out for a system that actuates properly in response to established parameters.
 
-**Industry cyber-security guidance** — the endorsed cyber-security plan template and the critical-digital-asset scoping guidance. *Copyrighted; characterized only on this site. Copies are obtainable through industry channels where a Course Note needs to characterize a specific section accurately.*
+**SRM COMWCO-10-0001** — Staff Requirements Memorandum, *Regulation of Cyber Security at Nuclear Power Plants*, 21 October 2010. The Commission's policy determination that 73.54 reaches balance-of-plant structures, systems and components having a nexus to radiological health and safety. This is what sets the outer edge of cyber scoping, and it was set by the Commission rather than by industry. See [M04-CN-03](course-notes/M04-CN-03-identifying-critical-digital-assets.md).
+
+**NEI 08-09, Revision 6** — *Cyber Security Plan for Nuclear Power Reactors*, April 2010. The endorsed plan template: the programme structure, the critical-system-then-critical-asset funnel, the assessment team, the three control dispositions, and the concentric defensive architecture. *Copyrighted; characterized only on this site.* Characterized at [M04-CN-02](course-notes/M04-CN-02-the-cyber-security-plan-template.md).
+
+**NEI 10-04, Revision 2** — *Identifying Systems and Assets Subject to the Cyber Security Rule*, July 2012. The scoping methodology: the screening questions, the programmability test for what counts as digital, and — the point of Revision 2 — the rule governing inclusion by connectivity pathway. *Copyrighted; characterized only on this site.* Characterized at [M04-CN-03](course-notes/M04-CN-03-identifying-critical-digital-assets.md).
+
+**NIST SP 800-82 and NIST SP 800-53** — the control catalogues from which the industry guidance's technical, operational and management controls were tailored. The lineage runs to a 2008 draft of the former and Revision 2 of the latter; both have advanced considerably since, which is a question a new-build applicant should expect.
 
 ## Instrumentation and control
 

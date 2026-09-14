@@ -19,10 +19,14 @@ Characterizing accurately requires having read the document, which for industry 
 | [`M02-CN-01`](M02-CN-01-sharing-of-structures.md) — Sharing of Structures, Systems and Components | Core / Module 2 · unit 00 · *The General Design Criteria* | Appendix A to Part 50, Criterion 5 |
 | [`M03-CN-01`](M03-CN-01-epz-sizing-criterion.md) — The EPZ Sizing Criterion | Core / Module 3 · unit 01 · *What the 2023 rule changed* | 10 CFR 50.160; 50.33(g)(2); cf. 50.47(c)(2) |
 | [`M04-CN-01`](M04-CN-01-safety-security-interface.md) — The Safety/Security Interface | Core / Module 4 · unit 00 · *The safety and security interface* | 10 CFR 73.58 |
+| [`M04-CN-02`](M04-CN-02-the-cyber-security-plan-template.md) — The Cyber Security Plan Template | Core / Module 4 · unit 01 · *How industry guidance becomes review guidance* | 10 CFR 73.54; NEI 08-09 Rev. 6 (characterized) |
+| [`M04-CN-03`](M04-CN-03-identifying-critical-digital-assets.md) — Identifying Critical Digital Assets | Core / Module 4 · unit 01 · *Where the campus breaks the method* | NEI 10-04 Rev. 2 (characterized); SRM COMWCO-10-0001; RG 5.71 |
+
+The pair M04-CN-02 and M04-CN-03 is deliberate. The plan template establishes the programme; the scoping guidance decides what goes into it. Splitting them keeps each Note to one source in context, and it isolates the campus-scaling finding in the document that actually generates it.
 
 Next to write:
 
-The cyber-security rule at 10 CFR 73.54, anchored to Module 4, unit 01. The rule itself is excerptable; the industry guidance that implements it is not, so that Note runs on the rule plus a characterization of the scoping construct — and characterizing it accurately means working from an actual copy.
+Nothing is currently blocked on obtaining a source. The remaining candidates are ranked by what they would settle rather than by what is available: Regulatory Guide 5.71 in its own right, anchored to Module 4 unit 01, which is excerptable throughout and would let the control-set discussion run on primary text; and 10 CFR 73.55 on physical protection, anchored to Module 4 unit 00, where the corpus currently characterizes more than it needs to.
 
 ## Template
 
