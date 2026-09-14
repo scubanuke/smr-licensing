@@ -1,6 +1,6 @@
 # Course Map — Licensing the Small Modular Reactor
 
-**Version 0.1.** This is the syllabus for the complete site; the folders mirror it.
+**Version 1.0.** This is the syllabus for the complete site; the folders mirror it.
 
 The through-line is the **record**: what an applicant has to put in front of the Nuclear Regulatory Commission, what the staff does with it, and where that exchange currently has no settled answer. Seven modules build the framework in teaching order. Sixteen register entries hold what is open. Every module ends by pointing at the entries it governs.
 
