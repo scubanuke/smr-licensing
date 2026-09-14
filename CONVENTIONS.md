@@ -36,6 +36,22 @@ The supporting-reference apparatus is carried over from the course repository un
 
 Two adjustments for this site. Field 6 is *where the SMR case departs* rather than the AI case, since the departures here are mostly from large-LWR precedent rather than from pre-AI practice. And the **excerptability rule bites harder**: federal regulations, regulatory guides, NUREGs, EPA and NIST material are U.S. government works and reproduce freely, but **NEI guidance documents are copyrighted industry consensus products and are characterize-only**, as are IEEE and ISO standards. A Note on NEI 08-09 or NEI 10-04 states what the section requires in our own words with the section number, and never reproduces it.
 
+## Ownership across the sites
+
+Some material appears on more than one Eclectic Technologies site. The dual design basis, the Bright Line, the Command Broker, the consequence-anchored root and the bounded adversary envelope are all taught in the [AI Governance course](https://scubanuke.github.io/ai-governance-course/) and all appear here. Two written treatments of the same construct will agree on the day they are written and will not stay agreeing, because they get revised on different occasions for different reasons — and nobody notices until a reader finds the seam described two ways.
+
+The rule that prevents that:
+
+**The course owns the method. This site owns its instantiation.**
+
+Where a construct is derived and justified in the course, this site does not re-derive it. A unit here states what is specific to this facility class, this regulator, and this record, says enough for the page to stand on its own, and points to the course for the derivation. The reverse also holds: the course does not import SMR-specific findings, it points here.
+
+The test when writing: *would this paragraph be equally true of a water utility or a data centre?* If yes, it is method and belongs to the course. If it is only true because this is a multi-module light-water campus under NRC review, it is instantiation and belongs here.
+
+This is the same discipline the [Instrument Library](resources/instrument-library.md) applies to versions — one place carries the truth, everything else cites it — extended from versions to arguments.
+
+**Shared terminology is governed series-wide.** "Bright Line" is two words, title case, no hyphen, and names the autonomy boundary only. Neither site may use it for the intent boundary between the design-basis threat and the state-actor layer. A terminology change agreed in the corpus applies to both sites in the same pass.
+
 ## Naming and ordering
 
 Module folders are `module-N-slug`. Units carry a two-digit ordering prefix in teaching order, `00-`, `01-`, `02-`. The `90-` prefix is reserved for dated snapshot units that will age faster than the method around them — Module 1's rule-status snapshot is the current instance, and any unit that starts tracking a moving rulemaking should acquire a `90-` sibling rather than letting the volatility leak into the durable text.

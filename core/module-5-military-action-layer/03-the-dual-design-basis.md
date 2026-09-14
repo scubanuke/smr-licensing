@@ -4,15 +4,11 @@ When artificial intelligence shows up in an industrial facility, the usual insti
 
 The claim in this unit is that a facility where artificial intelligence participates has **two design bases, not one**, and that the seam between them is the object that has to be governed.
 
-## Why two
+> **Where this is derived.** The two-design-basis construct, the inherit-and-diverge argument, and the merge as a managed interface are developed sector-agnostically in the [AI Governance course](https://scubanuke.github.io/ai-governance-course/), Module 3 units 04 and 05, with the governance primitives in its Module 4. Per [Conventions](../../CONVENTIONS.md), the course owns the method and this site owns its instantiation. What follows states the construct compactly and then spends its length on what is specific to this facility class — which is the part the course does not carry.
 
-Both bases start in the same place. The consequence root is a property of the facility: what is the worst thing that can happen here, and what functions stand between normal operation and that outcome? Artificial intelligence does not create a new consequence set. Whatever the plant could do to the world, it could already do.
+## Why two, in one paragraph
 
-So the artificial-intelligence design basis **inherits** the consequence root. That inheritance is what keeps it anchored — an artificial-intelligence governance scheme that invents its own severity scale, disconnected from the facility's actual consequences, is measuring something that does not matter.
-
-Where the two diverge is the **adversary envelope**. The facility-class basis is drawn around the things that threaten a physical plant: failures, hazards, and a defined human adversary. The artificial-intelligence basis has to be drawn around something else — a system that can be manipulated through its inputs, whose behavior outside a bounded domain is not predictable from its behavior inside it, and which can be induced to act wrongly without anything on the plant having failed at all.
-
-Same root, different envelope. That is the whole argument for two bases, and it is also why the second one cannot simply be folded into the first: the first basis has no vocabulary for an envelope of that shape.
+Both bases share a **consequence root**, because artificial intelligence creates no new consequence set: whatever the plant could do to the world, it could already do. The artificial-intelligence basis therefore inherits that root, which is what keeps it anchored to something that matters rather than to an invented severity scale of its own. Where the two **diverge is the adversary envelope** — the facility basis is drawn around failures, hazards and a defined human adversary, while the artificial-intelligence basis has to be drawn around a system that can be manipulated through its inputs, whose behavior outside a bounded domain does not follow from its behavior inside it, and which can be induced to act wrongly without anything on the plant having failed at all. Same root, different envelope: that is the argument for two bases, and the reason the second cannot be folded into the first, which has no vocabulary for an envelope of that shape.
 
 ## The seam, and what the Bright Line is
 
@@ -24,13 +20,13 @@ What sits below the line is the part of the plant that acts without asking anyth
 
 This has a consequence that matters more than it sounds: because the credited protective functions sit below the line, a compromise of the digital and generative layer does not by itself defeat them. That is the design backstop in [LI-03](../../register/LI-03-shared-digital-ic-guidance.md), and stating it precisely is what keeps the cyber argument honest in both directions — the trip is not defeated, and the operators' situational awareness very much can be.
 
-## Two bases meeting is an architecture, not yet a method
+## The merge, and why it is not a hierarchy
 
-A seam is a picture. Turning it into something a facility can operate requires answering what happens when the two bases give conflicting answers, and the answer determines whether the whole scheme is real.
+A seam is a picture; what makes it operable is the answer to what happens when the two bases give conflicting answers.
 
-The load-bearing point is that **what is inherited is consequence, not authority**. The artificial-intelligence basis inherits the facility's consequence root, but it does not thereby become subordinate to the facility basis in a way that settles collisions automatically. At the seam the two are co-equal, and neither resolves a conflict by outranking the other.
+The course settles that question and the answer is worth restating because everything below depends on it: **what is inherited is consequence, not authority.** The artificial-intelligence basis inherits the facility's consequence root without thereby becoming subordinate to the facility basis, so at the seam the two are co-equal and neither resolves a collision by outranking the other. The merge is therefore a **managed interface** — an assignable duty to detect a conflict before acting, plus a named arbiter when one surfaces at runtime — rather than a hierarchy. The derivation is in the course's Module 3 unit 05.
 
-That means the merge cannot be a hierarchy. It has to be a **managed interface**: an assignable duty to detect a conflict before acting, and a named arbiter when the conflict surfaces at runtime. The arbiter is the Command Broker.
+The arbiter is the Command Broker, and how it behaves at a nuclear facility class is where this site takes over.
 
 ## The Command Broker
 
@@ -46,11 +42,11 @@ One detail is easy to get wrong and worth stating explicitly: the **lock enduran
 
 ## The operational payoff
 
-There is a practical reason to insist on a written artificial-intelligence design basis that has nothing to do with regulators, and it is the argument that usually persuades people who find the rest of this abstract.
+There is a practical reason to insist on a written artificial-intelligence design basis that has nothing to do with regulators, and it is the argument that usually persuades people who find the rest of this abstract. It is a general point rather than a nuclear one — the course develops it in Module 3 unit 05 — but it is the reason an applicant should want this document rather than merely accept it.
 
-The artificial-intelligence design basis is the **source document for procurement**. The contract requirements for an artificial-intelligence-enabled system are derived from it. So is the spine of the acceptance test plan the customer runs at delivery. So is the re-test trigger — the rule that says which supplier changes are significant enough to require requalification rather than being absorbed as a routine update.
+The artificial-intelligence design basis is the **source document for procurement**. The contract requirements for an artificial-intelligence-enabled system are derived from it, as is the spine of the acceptance test plan the customer runs at delivery, and the re-test trigger that says which supplier changes are significant enough to require requalification rather than being absorbed as a routine update.
 
-Without that document, a facility is negotiating artificial-intelligence acceptance criteria from scratch with each vendor, at the worst possible moment, using whatever the vendor's datasheet happens to assert. With it, the facility knows what it is buying before it asks for a price.
+Without it a facility negotiates acceptance criteria from scratch with each vendor, at the worst possible moment, against whatever the datasheet asserts. With it, the facility knows what it is buying before it asks for a price.
 
 ## What a reviewer should press on
 

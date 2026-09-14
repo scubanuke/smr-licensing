@@ -28,6 +28,8 @@ Readers who reach [Correlated-Barrier Cutsets](../module-5-military-action-layer
 
 ## The safety and security interface
 
+> **Course Note [M04-CN-01](../../resources/course-notes/M04-CN-01-safety-security-interface.md)** carries 10 CFR 73.58 in full, with what it establishes and the three ways this case departs from it.
+
 One provision deserves singling out because it is easy to miss and it governs a real hazard. 10 CFR 73.58 requires a licensee to assess and manage the effect of security changes on safety, and vice versa.
 
 The hazard it addresses is specific. A security measure can degrade a safety function — a barrier placed where it impedes access needed in an emergency, a door-locking regime that slows an operator response the safety analysis credits. Neither discipline catches this on its own, because each is evaluating against its own criteria, and both can be individually correct while the combination is worse than either.

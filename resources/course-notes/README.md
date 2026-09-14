@@ -14,13 +14,17 @@ Characterizing accurately requires having read the document, which for industry 
 
 ## The collection
 
-*No Notes written yet.* The first three to write, in order of how much they would carry:
+| Note | Anchors to | Source |
+|---|---|---|
+| [`M04-CN-01`](M04-CN-01-safety-security-interface.md) — The Safety/Security Interface | Core / Module 4 · unit 00 · *The safety and security interface* | 10 CFR 73.58 |
 
-The safety-security interface, anchored to Module 4 — this one already exists in the AI Governance course as `M03-CN-01` and can be adapted rather than written fresh.
+Next to write, in order of how much they would carry:
 
 The 2023 small modular reactor emergency-preparedness rule, anchored to Module 3, unit 01. Freely excerptable, and it is the provision that carries the most weight with the most readers.
 
-The General Design Criterion on sharing of structures, systems and components, anchored to Module 2. Freely excerptable, short, and the field on where the case departs writes itself — [LI-08](../../register/LI-08-gdc-5-sharing-of-structures.md) is exactly that departure.
+The General Design Criterion on sharing of structures, systems and components, anchored to Module 2, unit 00. Freely excerptable, short, and the field on where the case departs writes itself — [LI-08](../../register/LI-08-gdc-5-sharing-of-structures.md) is exactly that departure.
+
+The cyber-security rule at 10 CFR 73.54, anchored to Module 4, unit 01. The rule itself is excerptable; the industry guidance that implements it is not, so that Note runs on the rule plus a characterization of the scoping construct — and characterizing it accurately means working from an actual copy.
 
 ## Template
 
