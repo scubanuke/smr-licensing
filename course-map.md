@@ -2,6 +2,8 @@
 
 **Version 1.2.** This is the syllabus for the complete site; the folders mirror it.
 
+Citable at [10.5281/zenodo.22753013](https://doi.org/10.5281/zenodo.22753013), which always resolves to the newest version. A complete edition is deposited there as a single document for readers who would rather print the whole thing than work through it on screen.
+
 The through-line is the **record**: what an applicant has to put in front of the Nuclear Regulatory Commission, what the staff does with it, and where that exchange currently has no settled answer. Seven modules build the framework in teaching order. Sixteen register entries hold what is open. Every module ends by pointing at the entries it governs.
 
 > **The instruments this site draws on.** The design-basis corpus behind these modules — the SMR facility-class design basis, its four inherited core instruments, the supporting instrument set, and the twelve submittal work products — is inventoried with citable identifiers in the [Instrument Library](resources/instrument-library.md). Start there if you want the documents rather than the argument.

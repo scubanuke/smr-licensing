@@ -4,6 +4,10 @@
 
 Eclectic Technologies · T. Roxey · CC BY 4.0
 
+**Cite this site:** Roxey, Timothy E. (2026). *Licensing the Small Modular Reactor: A Course and an Issue Register.* Zenodo. [10.5281/zenodo.22753013](https://doi.org/10.5281/zenodo.22753013)
+
+That is the concept identifier and it always resolves to the newest version, which is what you want for a site that is expected to change. To cite the text as it stood at a fixed moment, use the version identifier printed on that edition's cover — [10.5281/zenodo.22753014](https://doi.org/10.5281/zenodo.22753014) for version 1.2.
+
 ---
 
 There are two ways to learn how a small modular reactor gets licensed in the United States. You can read the framework — the parts of Title 10 that apply, the pathways an applicant can choose, the machinery the staff uses to review what arrives. Or you can read the arguments that are still unsettled, because those are where the framework is actually being built right now.
@@ -34,4 +38,4 @@ The [AI Governance course](https://scubanuke.github.io/ai-governance-course/) te
 
 ---
 
-*Version 1.2, 14 September 2026. Every component the site declares now exists: seven modules written through, sixteen register entries, and the reference layer. Five Course Notes are written, none now blocked on obtaining a source. This version adds the two cyber-security Notes and corrects what the site previously said about critical-digital-asset scoping: inclusion by connectivity pathway is conditional and dischargeable rather than transitive, and the campus gap is a designation without gradation rather than a configuration the method fails to reach. LI-02 and LI-03 are restated accordingly. Register entries carry dated state-of-play fields that are expected to be revised; those changes carry minor version bumps.*
+*Version 1.2, 14 September 2026. Every component the site declares now exists: seven modules written through, sixteen register entries, and the reference layer. Five Course Notes are written, none now blocked on obtaining a source. This version adds the two cyber-security Notes and corrects what the site previously said about critical-digital-asset scoping: inclusion by connectivity pathway is conditional and dischargeable rather than transitive, and the campus gap is a designation without gradation rather than a configuration the method fails to reach. LI-02 and LI-03 are restated accordingly. It is also the first version deposited to Zenodo, so the site now has a durable identifier that survives any change of address. Register entries carry dated state-of-play fields that are expected to be revised; those changes carry minor version bumps.*
