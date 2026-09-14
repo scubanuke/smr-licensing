@@ -16,13 +16,11 @@ Characterizing accurately requires having read the document, which for industry 
 
 | Note | Anchors to | Source |
 |---|---|---|
+| [`M02-CN-01`](M02-CN-01-sharing-of-structures.md) — Sharing of Structures, Systems and Components | Core / Module 2 · unit 00 · *The General Design Criteria* | Appendix A to Part 50, Criterion 5 |
+| [`M03-CN-01`](M03-CN-01-epz-sizing-criterion.md) — The EPZ Sizing Criterion | Core / Module 3 · unit 01 · *What the 2023 rule changed* | 10 CFR 50.160; 50.33(g)(2); cf. 50.47(c)(2) |
 | [`M04-CN-01`](M04-CN-01-safety-security-interface.md) — The Safety/Security Interface | Core / Module 4 · unit 00 · *The safety and security interface* | 10 CFR 73.58 |
 
-Next to write, in order of how much they would carry:
-
-The 2023 small modular reactor emergency-preparedness rule, anchored to Module 3, unit 01. Freely excerptable, and it is the provision that carries the most weight with the most readers.
-
-The General Design Criterion on sharing of structures, systems and components, anchored to Module 2, unit 00. Freely excerptable, short, and the field on where the case departs writes itself — [LI-08](../../register/LI-08-gdc-5-sharing-of-structures.md) is exactly that departure.
+Next to write:
 
 The cyber-security rule at 10 CFR 73.54, anchored to Module 4, unit 01. The rule itself is excerptable; the industry guidance that implements it is not, so that Note runs on the rule plus a characterization of the scoping construct — and characterizing it accurately means working from an actual copy.
 

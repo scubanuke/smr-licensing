@@ -1,6 +1,6 @@
 # Licensing the Small Modular Reactor
 
-**A course and an issue register.** Version 1.0.
+**A course and an issue register.** Version 1.1.
 
 Eclectic Technologies · T. Roxey · CC BY 4.0
 
@@ -34,4 +34,4 @@ The [AI Governance course](https://scubanuke.github.io/ai-governance-course/) te
 
 ---
 
-*Version 1.0, 14 September 2026. Every component the site declares now exists: seven modules written through, sixteen register entries, and the reference layer. The Course Note collection is being built out, and register entries carry dated state-of-play fields that are expected to be revised — those changes will carry minor version bumps.*
+*Version 1.1, 14 September 2026. Every component the site declares now exists: seven modules written through, sixteen register entries, and the reference layer. Three Course Notes are written and a fourth waits on source copies; register entries carry dated state-of-play fields that are expected to be revised. Those changes carry minor version bumps.*

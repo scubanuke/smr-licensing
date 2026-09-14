@@ -20,7 +20,7 @@ A reader coming to this from a standards background should resist the instinct t
 
 The criteria doing the most work for a multi-module campus are worth knowing by name.
 
-The criterion on **sharing of structures, systems and components** requires that where units share equipment important to safety, the sharing must not significantly impair the ability to perform safety functions, including during an accident in one unit while the others keep running. Written for a two-unit station sharing a few systems. A campus shares nearly everything, and what the criterion demands at that degree of sharing has never been settled — see [LI-08](../../register/LI-08-gdc-5-sharing-of-structures.md), which is load-bearing for several other register entries.
+The criterion on **sharing of structures, systems and components** requires that where units share equipment important to safety, the sharing must not significantly impair the ability to perform safety functions, including during an accident in one unit while the others keep running. Course Note [M02-CN-01](../../resources/course-notes/M02-CN-01-sharing-of-structures.md) carries it in full — it is a single sentence, which is part of what it establishes. Written for a two-unit station sharing a few systems. A campus shares nearly everything, and what the criterion demands at that degree of sharing has never been settled — see [LI-08](../../register/LI-08-gdc-5-sharing-of-structures.md), which is load-bearing for several other register entries.
 
 The criteria on **protection against natural phenomena** and on **environmental and dynamic effects** are where external hazards land, and where a reviewer's attention goes when a design claims a small site footprint.
 

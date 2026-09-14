@@ -14,9 +14,13 @@ Four links, each with its own governing consideration.
 
 **Dose at distance.** The projected dose a person would receive at a given distance, over a given exposure period, through the relevant pathways — plume immersion, inhalation, ground deposition. The early phase is what sizes the zone.
 
-**Comparison against a threshold.** The Environmental Protection Agency's protective action guides set the early-phase threshold at one rem total effective dose equivalent — the projected dose at which taking protective action is judged worthwhile, balancing the real harms of evacuating people against the harm avoided.
+**Comparison against a threshold.** For a design proceeding under the 2023 route, the criterion is stated in the regulation itself: whether public dose from radioactive releases is **projected to exceed 1 rem total effective dose equivalent over 96 hours**. Three features of that phrasing matter — it is expressed in dose rather than distance, it is *projected* and so concerns a postulated release rather than a measurement, and it integrates over a stated 96-hour window that bounds what the analysis must cover.
+
+The figure aligns with the Environmental Protection Agency's early-phase protective action guide, which is the underlying judgment about when a protective action is worth its own disruption. But the binding criterion an applicant is analyzed against is the one in the rule, and citing the guide in its place is a small imprecision that a reviewer will notice.
 
 The zone boundary falls where the projected dose drops below that threshold. Smaller source term, shorter distance. That is the whole of it.
+
+> **Course Note [M03-CN-01](../../resources/course-notes/M03-CN-01-epz-sizing-criterion.md)** carries the legacy provision and the 2023 route side by side, with the sizing criterion verbatim.
 
 ## What the 2023 rule changed
 

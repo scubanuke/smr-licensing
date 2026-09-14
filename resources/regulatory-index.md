@@ -20,11 +20,15 @@ Where a provision governs, the provision governs. Nothing on this site substitut
 
 ## Emergency preparedness
 
-**10 CFR 50.47 and Part 50 Appendix E** — emergency plans and planning standards.
+**10 CFR 50.47 and Part 50 Appendix E** — emergency plans and planning standards; 50.47(c)(2) carries the legacy ten-mile plume and fifty-mile ingestion zones and the narrow case-by-case opening.
+
+**10 CFR 50.160** — emergency preparedness for small modular reactors, non-light-water reactors, and non-power production or utilization facilities. Added by the 2023 rule; refers the zone determination to 50.33(g)(2).
+
+**10 CFR 50.33(g)(2)** — the sizing criterion itself: whether projected public dose exceeds 1 rem total effective dose equivalent over 96 hours. See [M03-CN-01](course-notes/M03-CN-01-epz-sizing-criterion.md).
 
 **Emergency Preparedness for Small Modular Reactors and Other New Technologies** — final rule, Federal Register, 16 November 2023. The performance-based, consequence-scaled planning zone rests here.
 
-**EPA Protective Action Guides Manual (2017)** — the one-rem early-phase protective-action guideline.
+**EPA Protective Action Guides Manual (2017)** — the early-phase protective action guide the regulatory criterion aligns with. The binding criterion for zone sizing is in 50.33(g)(2), not in the manual.
 
 ## Source term
 

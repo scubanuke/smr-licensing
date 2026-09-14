@@ -76,11 +76,14 @@ smr-licensing/
     LI-16-the-part-53-part-57-band.md
     README.md
   resources/
-    glossary.md
+    glossary-terms.json
     instrument-library.md
     regulatory-index.md
     course-notes/
+      M02-CN-01-sharing-of-structures.md
+      M03-CN-01-epz-sizing-criterion.md
+      M04-CN-01-safety-security-interface.md
       README.md
 ```
 
-The two halves are `core/` + `bridge/` (the course) and `register/` (the issues). Every module folder carries a `README.md` with learning objectives and an `open-issues.md` linking into the register. `resources/instrument-library.md` is the single place instrument versions are recorded; everything else cites by designator. Authoring rules are in [`CONVENTIONS.md`](CONVENTIONS.md).
+The two halves are `core/` + `bridge/` (the course) and `register/` (the issues). Every module folder carries a `README.md` with learning objectives and an `open-issues.md` linking into the register. `resources/instrument-library.md` is the single place instrument versions are recorded; `resources/glossary-terms.json` is the single source for the glossary, which is rendered by a tap-to-define component in `index.html` rather than from markdown. Authoring rules are in [`CONVENTIONS.md`](CONVENTIONS.md).

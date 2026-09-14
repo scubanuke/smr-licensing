@@ -19,7 +19,7 @@ Smaller reactors with more retentive barriers produce a smaller number at the to
 
 **[The Mechanistic Source Term](00-the-mechanistic-source-term.md)** — what is actually released, and when. The prescriptive release-fraction baseline for large light-water reactors, the alternative source term framework, and the design-family barrier sets that produce a different answer: pool-immersed aqueous scrubbing, dry containment with an evaporative reservoir, steel-plate-composite containment on a no-core-uncovery basis.
 
-**[From Dose to Zone](01-from-dose-to-zone.md)** — the performance-based, consequence-scaled planning zone permitted by the 2023 emergency-preparedness rule, sized so projected early-phase dose stays under the Environmental Protection Agency's one-rem protective-action guideline across a meteorological envelope. What "across a meteorological envelope" is doing in that sentence, and why a reviewer presses on it.
+**[From Dose to Zone](01-from-dose-to-zone.md)** — the performance-based, consequence-scaled planning zone permitted by the 2023 emergency-preparedness rule, sized so projected dose stays under the regulation's criterion of 1 rem total effective dose equivalent over 96 hours, across a meteorological envelope. What "across a meteorological envelope" is doing in that sentence, and why a reviewer presses on it.
 
 **[Aggregate Inventory](02-aggregate-inventory.md)** — the catch. A campus of modules is not one module, and the demonstration has to run on the aggregate inventory under correlated defeat of shared barriers rather than on a single unit's favorable arithmetic.
 

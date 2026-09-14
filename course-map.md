@@ -1,6 +1,6 @@
 # Course Map — Licensing the Small Modular Reactor
 
-**Version 1.0.** This is the syllabus for the complete site; the folders mirror it.
+**Version 1.1.** This is the syllabus for the complete site; the folders mirror it.
 
 The through-line is the **record**: what an applicant has to put in front of the Nuclear Regulatory Commission, what the staff does with it, and where that exchange currently has no settled answer. Seven modules build the framework in teaching order. Sixteen register entries hold what is open. Every module ends by pointing at the entries it governs.
 
@@ -30,7 +30,7 @@ The keystone unit is the **conformance matrix** — the requirement-by-requireme
 Closes with: *Open Issues.*
 
 ### Module 3 — Consequence and the source term
-The chain everything downstream hangs from: source term to dose to zone. What a mechanistic source term is and why the certified quantities are carried by design-family reference rather than reproduced. The alternative source term of Regulatory Guide 1.183. The 2023 emergency-preparedness rule for small modular reactors and the performance-based, consequence-scaled planning zone it permits, sized so projected early-phase dose stays under the Environmental Protection Agency's one-rem protective-action guideline.
+The chain everything downstream hangs from: source term to dose to zone. What a mechanistic source term is and why the certified quantities are carried by design-family reference rather than reproduced. The alternative source term of Regulatory Guide 1.183. The 2023 emergency-preparedness rule for small modular reactors and the performance-based, consequence-scaled planning zone it permits, sized so projected dose stays under the regulation's criterion of 1 rem total effective dose equivalent over 96 hours.
 
 Then the catch that makes the whole module worth reading carefully: a per-module source term does not carry to a multi-module campus. The demonstration has to run on aggregate inventory.
 Closes with: *Open Issues.*
@@ -70,4 +70,4 @@ Read [How to Read the Register](register/README.md) first — it explains the se
 
 ## Reference
 
-The [Instrument Library](resources/instrument-library.md) is the single source of truth for instrument versions and citable identifiers; units cite instruments by designator and let the library carry the version. The [Glossary](resources/glossary.md) and [Regulatory Index](resources/regulatory-index.md) support both halves. [Course Notes](resources/course-notes/README.md) carry the primary sources in context, under the heading each one serves.
+The [Instrument Library](resources/instrument-library.md) is the single source of truth for instrument versions and citable identifiers; units cite instruments by designator and let the library carry the version. The [Glossary](#/resources/glossary) and [Regulatory Index](resources/regulatory-index.md) support both halves. [Course Notes](resources/course-notes/README.md) carry the primary sources in context, under the heading each one serves.
