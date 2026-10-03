@@ -18,7 +18,7 @@ The properties that matter for a safety function are determinism and formal veri
 
 ### The conjunctive gate
 
-What the corpus proposes is an admissibility gate with four conditions, and the word that does the work is **conjunctive** — all four, or the artifact is advisory only, below the Bright Line, with nothing in the safety demonstration depending on it.
+What the corpus proposes is an admissibility gate with four conditions, and the word that does the work is **conjunctive** — all four, or the artifact is advisory only, with nothing in the safety demonstration depending on it. Advisory is a statement about credit, not placement: an artifact that fails the gate is still placed on its consequence, one action at a time, like any other component whose behavior is not bounded by proof.
 
 **The artifact is frozen, and its specification is written independently of it.** No continuous learning, no silent updates, and — critically — the deterministic specification is written separately rather than reverse-engineered from the artifact's observed behavior. A specification derived from the thing it is meant to check is not a check.
 

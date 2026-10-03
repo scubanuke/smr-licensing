@@ -22,6 +22,6 @@ And the ask got smaller. The screening questions already reach the blinding resi
 
 ## Reader's stake
 
-*For the practitioner* — The honest framing matters more here than anywhere else on the register. Overclaiming the threat invites a reviewer to ask for protection the physics does not require; underclaiming it leaves the blinding residual undocumented. The instrument's position — trip and passive actuation sit below the autonomy boundary and are not defeated by the digital layer, while situational awareness is — is the defensible middle and should be stated as such.
+*For the practitioner* — The honest framing matters more here than anywhere else on the register. Overclaiming the threat invites a reviewer to ask for protection the physics does not require; underclaiming it leaves the blinding residual undocumented. The instrument's position — trip and passive actuation are outside the Command Broker's reach by the determinism carve-out, not below the Bright Line, and where locally sovereign they are not defeated by the digital layer, while situational awareness is — is the defensible middle and should be stated as such.
 
 *For everyone else* — Sharing control equipment among a dozen small reactors is efficient and it concentrates risk. The reassuring part is that the reactors' automatic shutdown does not depend on the computers an attacker would target. The unresolved part is that the operators could be left unable to see what is happening, and no one has written the rules for guarding against that at this scale.
