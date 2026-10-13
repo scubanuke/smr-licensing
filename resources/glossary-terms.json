@@ -85,6 +85,11 @@
     "definition": "In cyber scoping, a programmable device that executes internally stored programs without operator action. Solid-state devices carrying no firmware or software — relays, hard-wired logic — are excluded by definition, which is why hard-wired trip logic sits outside the rule's scope rather than merely outside an attacker's reach."
   },
   {
+    "term": "Diverse",
+    "expansion": "",
+    "definition": "Performs the same function by means that differ in principle, technology, supplier or dependency, so no single cause defeats them all; the defense against common-cause failure. Held once for the whole corpus in the [Design Basis for AI Governance glossary](https://scubanuke.github.io/ai-governance-course/#/resources/glossary), which carries the full definition."
+  },
+  {
     "term": "Docket",
     "expansion": "",
     "definition": "The official record of a licensing proceeding. Mostly public, which is what makes public participation possible."
@@ -115,6 +120,11 @@
     "definition": "The minimum design requirements of 10 CFR Part 50 Appendix A."
   },
   {
+    "term": "Independent",
+    "expansion": "",
+    "definition": "Free of shared dependencies, so the failure of one means cannot cause the failure of another. Held once for the whole corpus in the [Design Basis for AI Governance glossary](https://scubanuke.github.io/ai-governance-course/#/resources/glossary), which carries the full definition."
+  },
+  {
     "term": "Mechanistic source term",
     "expansion": "",
     "definition": "A calculated account of what would be released and when, based on the actual barriers of a specific design, rather than a prescribed fraction."
@@ -135,9 +145,29 @@
     "definition": "A formal question from the staff to the applicant during review. Volume of RAIs is usually the real schedule risk."
   },
   {
+    "term": "Redundant",
+    "expansion": "",
+    "definition": "More than one means of performing a function. Protects against random failures but not a common cause unless the means are also *Diverse* and *Independent*. Held once for the whole corpus in the [Design Basis for AI Governance glossary](https://scubanuke.github.io/ai-governance-course/#/resources/glossary), which carries the full definition."
+  },
+  {
     "term": "Residual",
     "expansion": "",
     "definition": "What remains unprotected after the credited barriers have been tested against deliberate action. The Conditionality Check exists to make it explicit rather than implicit."
+  },
+  {
+    "term": "Resilient",
+    "expansion": "",
+    "definition": "Holds a defined minimum of a critical function while degraded and restores full function within a defined time; measured over time. Contrast *Robust*. Held once for the whole corpus in the [Design Basis for AI Governance glossary](https://scubanuke.github.io/ai-governance-course/#/resources/glossary), which carries the full definition."
+  },
+  {
+    "term": "Robust",
+    "expansion": "",
+    "definition": "Keeps performing a critical function, without degradation, under the hazards and loads in its design basis; measured as margin. Contrast *Resilient*. Held once for the whole corpus in the [Design Basis for AI Governance glossary](https://scubanuke.github.io/ai-governance-course/#/resources/glossary), which carries the full definition."
+  },
+  {
+    "term": "Robust and Diverse",
+    "expansion": "",
+    "definition": "The nuclear-safety design principle, applied across all critical infrastructure sectors, that each critical function be protected by means strong enough to withstand its design basis and different and independent enough that no single cause defeats them all. The foundation resilience builds on. Held once for the whole corpus in the [Design Basis for AI Governance glossary](https://scubanuke.github.io/ai-governance-course/#/resources/glossary), which carries the full definition."
   },
   {
     "term": "Safeguards Information",

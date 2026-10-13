@@ -392,6 +392,8 @@ function rewriteLinks(path){
 // The glossary is rendered from structured data rather than from markdown, so one
 // terms file is the single source for the on-screen list and for any printed copy.
 // Reusable: drop this function, its CSS block, and a terms JSON into any sibling site.
+// Definitions carry inline markdown (italic, bold, links), rendered with marked.parseInline,
+// so an entry can point to a term held once in a sibling site's glossary.
 let GLOSSARY = null;
 
 function esc(s){
@@ -411,7 +413,7 @@ async function renderGlossary(){
          +     '<span class="gl-mk" aria-hidden="true">+</span>'
          +     '<span class="gl-name">'+esc(t.term)+'</span>'+exp
          +   '</button>'
-         +   '<div class="gl-def" id="gld'+i+'" hidden>'+esc(t.definition)+'</div>'
+         +   '<div class="gl-def" id="gld'+i+'" hidden>'+marked.parseInline(t.definition)+'</div>'
          + '</li>';
   }).join('');
 
