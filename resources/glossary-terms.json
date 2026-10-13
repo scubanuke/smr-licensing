@@ -32,7 +32,7 @@
   {
     "term": "Command Broker",
     "expansion": "",
-    "definition": "The mechanism governing the autonomy boundary: it holds an artificial-intelligence system inside a bounded, deterministic envelope under denial conditions, provides an independent hardware reset, and fails to a safe default when it cannot arbitrate."
+    "definition": "The qualified human who authorizes an artificial-intelligence action that crosses the Bright Line, working with the Gate, the mechanism that holds the action until it is authorized and never authorizes itself. Defined as a role, not a mechanism, in FD-BR (*The Broker*). Held once for the whole corpus in the [Design Basis for AI Governance glossary](https://scubanuke.github.io/ai-governance-course/#/resources/glossary), which carries the full definition."
   },
   {
     "term": "Conditionality Check",
